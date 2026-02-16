@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+sentencepiece
+sacrebleu
+tqdm
+lxml
